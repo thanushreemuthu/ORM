@@ -1,1 +1,1 @@
-![outiput](./static/image.png)
+![output](./static/image.png)
